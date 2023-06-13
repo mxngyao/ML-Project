@@ -7,9 +7,9 @@ Health Promotion Board is looking for ways to maximize their outreach program to
 The script should do the following:
 1. Use appropriate library to read the CSV file.
 2. Remove the following types of data from the dataset:
-     a. Invalid data
-     b. Null values
-     c. Unknown values
+     Invalid data,
+     Null values,
+     Unknown values
 3. Convert categorical columns to numeric values.
 4. Choose the appropriate columns from the dataset as feature columns.
 5. Choose the appropriate column from the dataset as the target column.

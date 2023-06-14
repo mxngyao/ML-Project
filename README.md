@@ -1,4 +1,4 @@
-# MLF-Project
+# ML-Project
  Writing a Script to construct and test ML models (Supervised Learning) for the scenario. 
  
  *P.S Theres a guide i wrote when i did the project you can use it if you are a student or someone doing a similar project to mine :)*

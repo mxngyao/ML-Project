@@ -1,5 +1,5 @@
 # ML-Project
-A Script that I have written to construct and test ML models (Supervised Learning) for the scenario. 
+A Script that I have written to construct and test Machine learning models for the scenario. 
  
  *P.S Theres a guide i wrote when i did the project you can use it if you are a student or someone doing a similar project to mine :)*
 
